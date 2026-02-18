@@ -11,7 +11,7 @@ const testimonials = [
   {
     quote: "The UGC they produced actually looks like our patients. Our call volume went up and our cost per call went down within 90 days.",
     name: "Dr. Michael Torres",
-    role: "Partner, Veneer & Implant Group",
+    role: "Owner, TW Studio",
   },
   {
     quote: "Finally someone who gets high-ticket dentistry. They don't waste budget on cold traffic—every dollar is aimed at people ready to book.",
