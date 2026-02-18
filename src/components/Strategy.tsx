@@ -65,13 +65,13 @@ export default function Strategy() {
                   <p className="text-sm font-medium uppercase tracking-wider opacity-90">Our focus</p>
                   <p className="mt-2 text-2xl font-bold">$20–$30 per qualified call</p>
                   <p className="mt-2 text-teal-100">
-                    Meta ads + UGC creative built for implant & veneer clinics. Transparent tracking, no vanity metrics.
+                    Meta ads + UGC creative built for implant & veneer clinics. High-ticket services make this highly profitable for dentists—transparent tracking, no vanity metrics.
                   </p>
                 </div>
                 <div className="mt-6 grid grid-cols-2 gap-4">
                   {[
                     { label: "Avg. cost per call", value: "$24" },
-                    { label: "Typical ROAS", value: "4x+" },
+                    { label: "Typical ROAS", value: "10x+" },
                     { label: "Call volume", value: "Scalable" },
                     { label: "Creative", value: "UGC-first" },
                   ].map((row) => (

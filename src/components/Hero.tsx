@@ -84,7 +84,7 @@ export default function Hero() {
                 <div className="grid grid-cols-2 gap-4 w-full max-w-sm">
                   {[
                     { label: "Calls", value: "$24", sub: "avg. cost" },
-                    { label: "ROAS", value: "4.2x", sub: "meta ads" },
+                    { label: "ROAS", value: "10x+", sub: "meta ads" },
                     { label: "Clinics", value: "50+", sub: "partnered" },
                     { label: "UGC", value: "100%", sub: "creative" },
                   ].map((stat, i) => (
