@@ -5,15 +5,15 @@ import Link from "next/link";
 
 const cases = [
   {
-    title: "Veneer practice: 12x ROAS and $26 cost per qualified call",
+    title: "Veneer practice: 16x ROAS and $26 cost per qualified call",
     description: "A multi-location veneer-focused group wanted to scale without blowing CPL. We launched UGC-heavy Meta campaigns with call-only objectives and landed at a consistent $26 CPA.",
-    metrics: ["12x ROAS", "$26/call", "200+ calls/mo"],
+    metrics: ["16x ROAS", "$26/call", "200+ calls/mo"],
     gradient: "from-violet-500 to-purple-600",
   },
   {
     title: "Implant clinic: 100+ new patient calls at $22 average",
     description: "Single high-end implant practice needed predictable call volume. We combined lead forms with click-to-call and UGC testimonials to hit $20–$24 per qualified call.",
-    metrics: ["100+ calls", "$22 avg", "4.1x ROAS"],
+    metrics: ["100+ calls", "$22 avg", "16x ROAS"],
     gradient: "from-teal-500 to-cyan-600",
   },
 ];
